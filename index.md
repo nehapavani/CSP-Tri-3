@@ -1,4 +1,6 @@
-<!-- pages_python/_includes/head-custom2.html -->
+---
+layout: default
+---
 
 <style>
 #video_wrapper {
