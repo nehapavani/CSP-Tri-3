@@ -1,39 +1,70 @@
-## Welcome to GitHub Pages
+<!-- pages_python/_includes/head-custom2.html -->
 
-You can use the [editor on GitHub](https://github.com/nehapavani/individual.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<style>
+#video_wrapper {
+    margin:0px;
+    padding:0px;
+}
+#video_wrapper video {
+    position: fixed;
+    top: 50%; left: 50%;
+    z-index: -99; important!
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+}
+</style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- pages_python/_layouts/default.html
+     customization added to original midnight theme found through GitHub Pages -->
 
-### Markdown
+  
+  <body>
+      <div id="header">
+        <nav>
+          <ul>
+            <li class="fork"><a href="https://github.com/nighthawkcoders/pages_python">View On GitHub</a></li>
+            
+          </ul>
+        </nav>
+      </div><!-- end header -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <div class="wrapper">
 
-```markdown
-Syntax highlighted code block
+      <section>
+        <div id="title">
+          <h1>GitHub Pages and Python</h1>
+          <p>This GitHub project provides GitHub Pages and Data Strucutres Python code in the same Repository.</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/nighthawkcoders">nighthawkcoders</a></span>
+          <!-- Credit goes to peron in next line, as nighthawkcoding society is rebranding this as their own
+               <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span> -->
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/NighthawkCoding">nighthawkcodingsociety</a></span> 
+        </div>
+        
+        <!-- "include navigation.html" allows inserted navigation that can be updated in independent file -->
+        
+<table>
+     <tr>
+         <td><a href=".">Home</a></td>
+         <td><a href="code">Code</a></td>
+         <td><a href="notes">CB Notes</a></td>
+     </tr>
+ </table>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+        <!-- "content" is Jekyll keyword, the md content will be inserted here -->
+<div id="video_wrapper">
+  <video autoplay loop>
+    <source src="https://drive.google.com/uc?export=view&id=1Qote5m--Bme0bE4_o6wAKNRxWY8pJnuL" type="video/mp4">
+  </video>
+</div>
+        
+      </section>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nehapavani/individual.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
+    </div>
+  </body>
+</html>
 
