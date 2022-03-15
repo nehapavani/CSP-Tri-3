@@ -1,3 +1,4 @@
+{% include navigation.html %)
 # About
 A tic tac toe game where players can play to see who wins. It is a fun and interactive game anyone can enjoy.
 
