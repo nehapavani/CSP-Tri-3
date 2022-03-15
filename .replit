@@ -1,2 +1,3 @@
 language = "python"
-run = "python menuy.py"
+run = "python src/menuy.py"
+
