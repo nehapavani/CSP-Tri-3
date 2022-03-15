@@ -5,4 +5,5 @@
     * README has review ticket and code for week of assignment.
     * Each file contains comments that serve as documentation
 
-<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@nehapavani/FrightenedFormalBugs#main.py">
+<iframe height="1000px" width="700px" src="https://replit.com/@nehapavani/FrightenedFormalBug?lite=true#main.py"></iframe>
+
