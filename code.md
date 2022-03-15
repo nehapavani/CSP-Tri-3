@@ -1,4 +1,4 @@
-{% include navigation.html %}
+{% include navigation.html /\%\}/
 # Code and Algorithms Review
 
 * Replit contains documentations details
