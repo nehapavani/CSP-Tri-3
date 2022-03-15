@@ -1,4 +1,4 @@
-{% include navigation.html %)
+{% include navigation.html %}
 ## 5.1: Beneficial and Harmful Effects
 * Accelerometers: automobile industry drove price down
    * Used for airbag deployment and lateral movement detection
