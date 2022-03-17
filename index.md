@@ -38,6 +38,6 @@
   margin: 4px 2px;
   cursor: pointer;"><a href="https://nehapavani.github.io/individual.github.io/createtask"> Create Task </a></button>
 
- Week      | Review Ticket |
-| ----------- | ----------- |
+| Week        | Review Ticket |
+| ----------- | ------------- |
 | Week 0      | [Week 0 Review Ticket](https://github.com/nehapavani/CSP-Tri-3/issues/1)|
