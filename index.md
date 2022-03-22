@@ -1,6 +1,6 @@
 {% include navigation.html %}
 # Welcome to Neha's Github Pages
-Status: Living Life
+Status: UC Riverdale'26 🧸
 
 | Week        | Review Ticket |
 | ----------- | ------------- |
