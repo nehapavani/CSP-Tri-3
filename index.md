@@ -1,6 +1,7 @@
 {% include navigation.html %}
 # Welcome to Neha's Github Pages
-Status: UC Riverdale'26 🧸
+
+## Status: UC Riverdale'26 🧸
 
 | Week        | Review Ticket |
 | ----------- | ------------- |
