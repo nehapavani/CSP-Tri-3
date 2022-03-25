@@ -1,7 +1,7 @@
 {% include navigation.html %}
 # Welcome to Neha's Github Pages
 
-## Status: UC Riverdale'26 🧸
+## Status: Going to Disneyland🧞‍♀️
 
 | Week 📆       |  Review Ticket 🎟 |
 | ------------- | ---------------- |
