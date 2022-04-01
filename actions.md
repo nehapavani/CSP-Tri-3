@@ -1,3 +1,11 @@
+### 5.1 Github Pages Actions
+
+### 5.2 Github Pages Actions
+
+### 5.3 Github Pages Actions
+
+### 5.4 Github Pages Actions
+
 ### 5.5 Github Pages Actions
 1. Licenses: Creative Commons Zero v1.0 Universal, Open Source MIT License, Open Source GPL License
 2. We chose the Open Source GPL License since it allows for work to be freely shared and modified and we want ore people to have access to our website since we are creating it for a business.
