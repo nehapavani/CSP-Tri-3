@@ -1,3 +1,4 @@
+{% include navigation.html %}
 ### 5.1 Github Pages Actions
 
 ### 5.2 Github Pages Actions
