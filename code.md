@@ -9,11 +9,29 @@
 
 ### Code Snippets
 
+### Menu
+
+Creating a Python menu with data structures and try/except statements - the lazy programmer way.
+
+<iframe height="1000px" width="700px" src="https://replit.com/@nehapavani/CSPTri3?lite=true#main.py"></iframe>
+
 ### Animation
+
+A more efficient way of using functions to achieve the same results.
+
+<iframe height="1000px" width="700px" src="https://replit.com/@nehapavani/CSPTri3?lite=true#main.py"></iframe>
 
 ### Lists
 
-### Classes
+InfoDB lists, InfoDB loops, and Fibonacci.
 
-### Algorithm Final
+<iframe height="1000px" width="700px" src="https://replit.com/@nehapavani/CSPTri3?lite=true#main.py"></iframe>
+
+### Math
+
+Write Factorial function using classes, providing implementation of call.
+
+Write Factorial function using classes, providing implementation of call.
+
+<iframe height="1000px" width="700px" src="https://replit.com/@nehapavani/CSPTri3?lite=true#main.py"></iframe>
 
