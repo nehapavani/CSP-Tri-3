@@ -12,7 +12,7 @@
 35. C: Overflow errors occur when an arithmetic operation results in a value outside the range of numbers that can be represented by a fixed number of bits.
 39. B: Different users may abbreviate city names differently. This may require the student to clean the data to make it uniform before it can be processed.
 
-### Finals Quiz 2
+### Finals Quiz 3
 1. B: If the connections between U and V and between U and P were removed, then computer T and computer U can no longer communicate.
 2. D: An undecidable problem is one for which no algorithm can be constructed that is always capable of providing a correct yes-or-no answer. Some instances of an undecidable problem may have an algorithmic solution, but there is no algorithmic solution that could solve all instances of the problem.
 7. D: The procedure initially sets result to 1 and j to 2. In the REPEAT UNTIL loop, result is first assigned the sum of result and j, or 1 + 2. The value of j is then increased to 3. In each subsequent iteration of the loop, result is increased by each successive value of j (3, 4, 5, etc.) until j exceeds n. Therefore, the procedure returns the sum of the integers from 1 to n.
